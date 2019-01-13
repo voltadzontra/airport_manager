@@ -1,0 +1,8 @@
+dbphpsearch_airportmanager/article.frm
+dbphpsearch_airportmanager/article.ibd
+dbphpsearch_airportmanager/db.opt
+img/*.png
+img/*.jpg
+loginsystem_airportmanager/db.opt
+loginsystem_airportmanager/user.frm
+loginsystem_airportmanager/user.ibd
